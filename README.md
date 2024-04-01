@@ -4,4 +4,4 @@
 
 This project is my submission for the final project in the unit "Introduction to Python for AI Programmers" in the AI Programming with Python Nano Degree.
 
-![Results image](image.png)
+![Results image](images/Results.png)
